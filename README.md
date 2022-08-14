@@ -62,5 +62,3 @@ __Advanced Audio Properties (recommendations):__
 * Mic/Aux - 0.0 dB
 * Music - -35 dB
 * VOIP - -6.0 dB
-
-![](WARN_REPLACE_IMG_URL)
